@@ -1,1 +1,4 @@
-# gatsby-starter-blog-mdx
+```
+npm install
+gatsby develop
+```
